@@ -1,0 +1,22 @@
+consistirán en una breve explicación acerca de cada una de las siete amenazas
+objeto del estudio, seguida de sus dos fichas correspondientes, elaboradas
+según el modelo anterior y finalizando cada capítulo con un apartado
+denominado comparativa entre las dos noticias, de más de doscientas
+palabras, en el que se muestren las similitudes y diferencias entre las dos
+noticias relativas a la amenaza, con el mayor nivel de detalle técnico que sea
+posible. Este apartado será especialmente considerado en la evaluación.
+Nota: Como ya hemos indicado, puede ser necesario indagar más acerca
+de una determinada noticia, ya que en ocasiones la información tiene un
+carácter periodístico y presenta las carencias típicas de ser redactada por
+un profano en la materia. En resumen, se ha de entender a la perfección
+el suceso objeto de la noticia y todos los detalles posibles, para el
+desarrollo de la comparativa con la otra noticia relativa a la misma
+amenaza.
+En caso de que no se localicen noticias de prensa digital relacionadas con
+las dos últimas amenazas (Inyección de código SQL y Cross-Site Scripting –
+XSS), se podrá ampliar la búsqueda a webs especializadas en seguridad, de
+fabricantes de productos de seguridad, etc. Esta excepción sólo se aplicará a
+estas dos amenazas, y entendiendo que sin duda existen noticias relativas a
+ambas amenazas, podrá influir negativamente en la calificación final.
+El octavo capítulo del informe se titulará “8.- Conclusiones del informe” y
+consistirá en una reflexión personal acerca de cada
