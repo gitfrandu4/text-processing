@@ -9,7 +9,7 @@
 
 El funcionamiento del programa es: dado un conjunto de ficheros, los procesa y obtiene una lista de las 10 palabras más frecuentes, ordenadas de mayor a menor. 
 
-<img src="C:\Users\jdelh\Dropbox\40826 - Programación IV\Prácticas\Práctica3\textprocessing\dibujo.png" alt="image-20200514015738156" style="zoom:80%;" />
+<img src="dibujo.png" alt="image-20200514015738156" style="zoom:80%;" />
 
 ### Estructura general
 
